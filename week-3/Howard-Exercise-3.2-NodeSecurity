@@ -1,0 +1,17 @@
+Users{
+    "Duty_Title": "Database_Admin",
+    "Link_User_Role": [
+        {
+            "Roles": [
+                {
+                    "Role_Name": "Admin"
+                    "Link_Role_Permission": {
+                        "Permissions": [
+                            {"Permisison_Name": "Add-User"}
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+}
